@@ -1,6 +1,6 @@
 from tkinter import *
 base = Tk()
-#base.title("Mad Libs Generator")
+base.title("Mad Libs Generator")
 base.geometry('360x300')
 base.background='#edeae1'
 base.resizable(False, False)
